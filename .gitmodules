@@ -1,0 +1,84 @@
+[submodule "Controls"]
+	path = Controls
+	url = https://github.com/horsicq/Controls.git
+[submodule "FormatDialogs"]
+	path = FormatDialogs
+	url = https://github.com/horsicq/FormatDialogs.git
+[submodule "FormatWidgets"]
+	path = FormatWidgets
+	url = https://github.com/horsicq/FormatWidgets.git
+[submodule "Formats"]
+	path = Formats
+	url = https://github.com/horsicq/Formats.git
+[submodule "QHexView"]
+	path = QHexView
+	url = https://github.com/horsicq/QHexView.git
+[submodule "SpecAbstract"]
+	path = SpecAbstract
+	url = https://github.com/horsicq/SpecAbstract.git
+[submodule "StaticScan"]
+	path = StaticScan
+	url = https://github.com/horsicq/StaticScan.git
+[submodule "XArchive"]
+	path = XArchive
+	url = https://github.com/horsicq/XArchive.git
+[submodule "XCapstone"]
+	path = XCapstone
+	url = https://github.com/horsicq/XCapstone.git
+[submodule "XDEX"]
+	path = XDEX
+	url = https://github.com/horsicq/XDEX.git
+[submodule "XDemangle"]
+	path = XDemangle
+	url = https://github.com/horsicq/XDemangle.git
+[submodule "XDemangleWidget"]
+	path = XDemangleWidget
+	url = https://github.com/horsicq/XDemangleWidget.git
+[submodule "XDisasm"]
+	path = XDisasm
+	url = https://github.com/horsicq/XDisasm.git
+[submodule "XDisasmView"]
+	path = XDisasmView
+	url = https://github.com/horsicq/XDisasmView.git
+[submodule "XEntropyWidget"]
+	path = XEntropyWidget
+	url = https://github.com/horsicq/XEntropyWidget.git
+[submodule "XHashWidget"]
+	path = XHashWidget
+	url = https://github.com/horsicq/XHashWidget.git
+[submodule "XHexEdit"]
+	path = XHexEdit
+	url = https://github.com/horsicq/XHexEdit.git
+[submodule "XHexView"]
+	path = XHexView
+	url = https://github.com/horsicq/XHexView.git
+[submodule "XLLVMDemangler"]
+	path = XLLVMDemangler
+	url = https://github.com/horsicq/XLLVMDemangler.git
+[submodule "XMemoryMapWidget"]
+	path = XMemoryMapWidget
+	url = https://github.com/horsicq/XMemoryMapWidget.git
+[submodule "XOptions"]
+	path = XOptions
+	url = https://github.com/horsicq/XOptions.git
+[submodule "XQwt"]
+	path = XQwt
+	url = https://github.com/horsicq/XQwt.git
+[submodule "XShortcuts"]
+	path = XShortcuts
+	url = https://github.com/horsicq/XShortcuts.git
+[submodule "XStyles"]
+	path = XStyles
+	url = https://github.com/horsicq/XStyles.git
+[submodule "XTranslation"]
+	path = XTranslation
+	url = https://github.com/horsicq/XTranslation.git
+[submodule "archive_widget"]
+	path = archive_widget
+	url = https://github.com/horsicq/archive_widget.git
+[submodule "nfd_widget"]
+	path = nfd_widget
+	url = https://github.com/horsicq/nfd_widget.git
+[submodule "signatures"]
+	path = signatures
+	url = https://github.com/horsicq/signatures.git
