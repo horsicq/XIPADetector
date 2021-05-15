@@ -82,3 +82,6 @@
 [submodule "signatures"]
 	path = signatures
 	url = https://github.com/horsicq/signatures.git
+[submodule "build_tools"]
+	path = build_tools
+	url = https://github.com/horsicq/build_tools
